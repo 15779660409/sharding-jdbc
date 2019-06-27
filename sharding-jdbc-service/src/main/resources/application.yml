@@ -1,0 +1,20 @@
+#
+##连接池配置
+#spring:
+#  datasource:
+#    type: com.alibaba.druid.pool.DruidDataSource
+#    multi:
+#      #name的第一个为默认数据源
+#      name: ds0,ds1
+#      ds0:
+#        filters: stat
+#        driver-class-name: com.mysql.cj.jdbc.Driver
+#        url: jdbc:mysql://192.168.237.213:3306/ds0?characterEncoding=UTF-8&useSSL=false
+#        username: root
+#        password: 123456
+#      ds1:
+#        filters: stat
+#        driver-class-name: com.mysql.cj.jdbc.Driver
+#        url: jjdbc:mysql://192.168.237.214:3306/ds1?characterEncoding=UTF-8&useSSL=false
+#        username: root
+#        password: 123456

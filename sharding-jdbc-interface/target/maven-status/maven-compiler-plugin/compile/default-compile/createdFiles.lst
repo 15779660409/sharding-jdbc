@@ -1,0 +1,12 @@
+com\shardingjdbc\kang\inter\entity\User.class
+com\shardingjdbc\kang\inter\service\ConfigService.class
+com\shardingjdbc\kang\inter\service\UserService.class
+com\shardingjdbc\kang\inter\service\OrderItemService.class
+com\shardingjdbc\kang\inter\mapper\UserMapper.class
+com\shardingjdbc\kang\inter\service\OrderService.class
+com\shardingjdbc\kang\inter\entity\Config.class
+com\shardingjdbc\kang\inter\mapper\OrderItemMapper.class
+com\shardingjdbc\kang\inter\mapper\OrderMapper.class
+com\shardingjdbc\kang\inter\mapper\ConfigMapper.class
+com\shardingjdbc\kang\inter\entity\Order.class
+com\shardingjdbc\kang\inter\entity\OrderItem.class
